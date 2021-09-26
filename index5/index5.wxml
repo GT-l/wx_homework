@@ -1,0 +1,12 @@
+<!--pages/index5/index5.wxml-->
+<view class="box">
+    <view class="title">彩票中奖号码</view>
+    <view class="item">{{num1}}</view>
+    <view class="item">{{num2}}</view>
+    <view class="item">{{num3}}</view>
+    <view class="item">{{num4}}</view>
+    <view class="item">{{num5}}</view>
+    <view class="item">{{num6}}</view>
+    <view class="item">{{num7}}</view>
+    <button type="primary" class="btn" bindtap="changeNumber">开始</button>
+</view>

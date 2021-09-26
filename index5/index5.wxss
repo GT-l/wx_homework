@@ -1,0 +1,18 @@
+/* pages/index5/index5.wxss */
+.item{
+    width: 100px;
+    height: 100px;
+    padding-right: 10px;
+    display: inline;
+    margin: 10px;
+    border: solid 1px silver;
+}
+.title{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 15px;
+    color: chartreuse;
+}
+button{
+    margin-top: 20px;
+}
